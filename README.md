@@ -1,4 +1,5 @@
 # School_District_Analysis
+<<<<<<< HEAD
 
 ## Project Overview - Overview of the School District Audit
 *The school board believes that there is evidence of academic dishonesty withing their local school district. They believe that some of the test scores have been altered. The school board wants to uphold state-testing standards and asked for help. Maria has asked me for help and given me the following tasks.
@@ -21,3 +22,5 @@
 - Deliverable 3: A written report for the school district analysis
 
 ## Challenge Summary
+=======
+>>>>>>> 58031e3ee3c37dda860297cbe3e99a692aa906fb
