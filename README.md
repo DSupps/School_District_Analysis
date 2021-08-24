@@ -106,7 +106,8 @@ The purpose of the analysis was to show the school board what the effect of remo
 ![size_before](https://user-images.githubusercontent.com/36451701/130702816-40cfd015-e5a9-48bf-b201-cc49ddd6c3d7.png)
 
 #### After changes
-![size_after](https://user-images.githubusercontent.com/36451701/130702835-7fcec59e-9810-4947-be1d-67f30bf05e27.png)
+![size_after](https://user-images.githubusercontent.com/36451701/130703121-a114dabe-c911-4f87-b567-ae16a803891d.png)
+
 
 
 
