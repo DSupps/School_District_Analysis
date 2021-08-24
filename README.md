@@ -32,7 +32,7 @@ The purpose of the analysis was to show the school board what the effect of remo
 
 ### Repeat the School District Analysis with replaced scores to compare:
 
-#### The District Summary:
+### The District Summary:
 ##### Before changes
 
 ![district_summary_pre](https://user-images.githubusercontent.com/36451701/130697817-0a7f3279-3663-4a09-9668-c80d71d49000.png)
@@ -48,7 +48,7 @@ The purpose of the analysis was to show the school board what the effect of remo
 - % of students passing reading went down .1%
 - % of overall passing went down .3%
 
-#### The School Summary:
+### The School Summary:
 ##### Before changes
 
 
@@ -63,7 +63,7 @@ The purpose of the analysis was to show the school board what the effect of remo
 -
 -
 
-#### Top 5 and Bottom 5 Summary:
+### Top 5 and Bottom 5 Summary:
 ##### Top Performing Schools"
 ![overall_high](https://user-images.githubusercontent.com/36451701/130700039-4e1cdf1f-bead-4f01-831b-ca3bdc53b842.png)
 
@@ -75,7 +75,7 @@ The purpose of the analysis was to show the school board what the effect of remo
 -
 -
 
-#### Math and Reading Scores by Grade:
+### Math and Reading Scores by Grade:
 ##### Math Scores - Thomas High School 9th grade removed
 
 ![math_scores](https://user-images.githubusercontent.com/36451701/130700563-a9dc2a9a-923a-49e4-b4af-b5d94397021b.png)
@@ -87,7 +87,7 @@ The purpose of the analysis was to show the school board what the effect of remo
 
 
 
-#### Scores by Schools Spending per Student:
+### Scores by Schools Spending per Student:
 ##### Before changes
 ![spending_pre](https://user-images.githubusercontent.com/36451701/130701319-04dad235-20ee-4ecb-965a-1b8acf532394.png)
 
@@ -101,7 +101,14 @@ The purpose of the analysis was to show the school board what the effect of remo
 - $645-678 category % passing math decresed .13%, % passing reading went up .1% and overall passing % went down .04%
 
 
-#### Scores by Schools Spending per School Size:
+### Scores by Schools Spending per School Size:
+##### Before changes
+![size_before](https://user-images.githubusercontent.com/36451701/130702816-40cfd015-e5a9-48bf-b201-cc49ddd6c3d7.png)
+
+#### After changes
+![size_after](https://user-images.githubusercontent.com/36451701/130702835-7fcec59e-9810-4947-be1d-67f30bf05e27.png)
+
+
 
 #### Scores by Schools Spending per School Size Highlights :
 
