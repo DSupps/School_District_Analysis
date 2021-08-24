@@ -70,13 +70,20 @@ The purpose of the analysis was to show the school board what the effect of remo
 ##### Low Performing Schools:
 ![overall_low](https://user-images.githubusercontent.com/36451701/130700075-c4211459-110a-4e70-ad4a-8d27c19e8a5e.png)
 
-
-
-
 #### Top 5 and Bottom 5 Highlights:
+-
+-
+-
+
 
 
 #### Math and Reading Scores by Grade:
+##### Math Scores
+![math_scores](https://user-images.githubusercontent.com/36451701/130700390-fc0610d7-e52b-4ad6-b447-97c142629edf.png)
+
+##### Reading Scores
+![reading_scores](https://user-images.githubusercontent.com/36451701/130700416-660a1b2f-e363-4772-a246-23de18674fec.png)
+
 
 
 #### Math and Reading Scores by Grade Highlights:
