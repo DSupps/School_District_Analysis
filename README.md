@@ -21,13 +21,10 @@ Software:
 - Python 3.8.5
 - Jupyter Notebook 6.1.4
 
-## Summary: School District Analysis 
+## Summary: School District Analysis Summary:
 
-## Challenge Overview
-*Maria would like me to repeat the school district analysis that I completed in this module, while replacing just the math and reading scores for Thomas High School with NaNs.  Maria would also like me to write up a report to describe how these changes affected the overall analysis.*
+Overview of the school district analysis: Explain the purpose of this analysis.
+The purpose of the analysis was to show the school board what the effect of removing Thomas High School's ninth grade math and reading scores would have overall. 
 
-
-
-## Challenge Summary
 
 
