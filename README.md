@@ -79,11 +79,13 @@ The purpose of the analysis was to show the school board what the effect of remo
 
 #### Math and Reading Scores by Grade:
 ##### Math Scores
-![math_scores](https://user-images.githubusercontent.com/36451701/130700390-fc0610d7-e52b-4ad6-b447-97c142629edf.png)
+
+![math_scores](https://user-images.githubusercontent.com/36451701/130700563-a9dc2a9a-923a-49e4-b4af-b5d94397021b.png)
+
 
 ##### Reading Scores
-![reading_scores](https://user-images.githubusercontent.com/36451701/130700416-660a1b2f-e363-4772-a246-23de18674fec.png)
 
+![reading_scores](https://user-images.githubusercontent.com/36451701/130700573-f5a2c54f-111d-4cad-8403-6768cd9db98e.png)
 
 
 #### Math and Reading Scores by Grade Highlights:
