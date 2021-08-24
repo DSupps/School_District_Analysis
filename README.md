@@ -40,7 +40,7 @@ The purpose of the analysis was to show the school board what the effect of remo
 ##### After changes
 ![district_summary_post](https://user-images.githubusercontent.com/36451701/130697826-86568b99-5cac-4e84-88bb-c2b97076d440.png)
 
-#### Highlights:
+#### District Summary Highlights:
 - We see that the changes here are minimal changes to both the math and reading scores
 - Avg math score went down .1 point 
 - % of students passing math went down .2%
@@ -49,21 +49,45 @@ The purpose of the analysis was to show the school board what the effect of remo
 - % of overall passing went down .3%
 
 #### The School Summary:
+##### Before changes
+
+![school_summary_pre](https://user-images.githubusercontent.com/36451701/130699449-8a66023a-01bf-436b-8088-40ea251247e9.png)
+
+##### After changes
+
+![school_summary_post](https://user-images.githubusercontent.com/36451701/130699463-ca644bba-3d41-411f-ba95-ac25d5e4ed4b.png)
+
+
+#### School Summary Highlights:
 
 
 #### Top 5 and Bottom 5 Summary:
 
 
+#### Top 5 and Bottom 5 Highlights:
+
+
 #### Math and Reading Scores by Grade:
 
 
-#### Scores by Schools Spending per Student
+#### Math and Reading Scores by Grade Highlights:
+
+
+#### Scores by Schools Spending per Student:
+
+
+#### cores by Schools Spending per Student Highlights:
 
 
 #### Scores by Schools Spending per School Size:
 
+#### Scores by Schools Spending per School Size Highlights :
 
-#### Scores by Schools Spending per School Type
+
+#### Scores by Schools Spending per School Type:
+
+
+#### Scores by Schools Spending per School Type Highlights:
 
 
 
