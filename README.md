@@ -15,7 +15,7 @@
 ## Resources
 Data Sources: 
 - [students_complete.csv](https://raw.githubusercontent.com/DSupps/School_District_Analysis/main/Resources/students_complete.csv)
-- [schools_complete.csv[(https://github.com/DSupps/School_District_Analysis/blob/main/Resources/schools_complete.csv)
+- [schools_complete.csv](https://github.com/DSupps/School_District_Analysis/blob/main/Resources/schools_complete.csv)
 
 Software: 
 - Python 3.8.5
