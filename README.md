@@ -59,9 +59,18 @@ The purpose of the analysis was to show the school board what the effect of remo
 
 
 #### School Summary Highlights:
-
+-
+-
+-
 
 #### Top 5 and Bottom 5 Summary:
+##### Top Performing Schools"
+![overall_high](https://user-images.githubusercontent.com/36451701/130700039-4e1cdf1f-bead-4f01-831b-ca3bdc53b842.png)
+
+##### Low Performing Schools:
+![overall_low](https://user-images.githubusercontent.com/36451701/130700075-c4211459-110a-4e70-ad4a-8d27c19e8a5e.png)
+
+
 
 
 #### Top 5 and Bottom 5 Highlights:
