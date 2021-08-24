@@ -40,7 +40,13 @@ The purpose of the analysis was to show the school board what the effect of remo
 ##### After changes
 ![district_summary_post](https://user-images.githubusercontent.com/36451701/130697826-86568b99-5cac-4e84-88bb-c2b97076d440.png)
 
-
+#### Highlights:
+- We see that the changes here are minimal changes to both the math and reading scores
+- Avg math score went down .1 point 
+- % of students passing math went down .2%
+- Avg reading score stayed the same
+- % of students passing reading went down .1%
+- % of overall passing went down .3%
 
 #### The School Summary:
 
