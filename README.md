@@ -26,9 +26,37 @@ Software:
 Overview of the school district analysis: Explain the purpose of this analysis.
 The purpose of the analysis was to show the school board what the effect of removing Thomas High School's ninth grade math and reading scores would have overall. 
 
-### We start off by chaning the math and reading scores for Thomas High School 9th grade:
+### We start off by replacing the math and reading scores for Thomas High School 9th grade:
 
 ![1](https://user-images.githubusercontent.com/36451701/130696178-91c23e4f-13d5-4b7d-b546-6f0991ad796c.png)
+
+### Repeat the School District Analysis with replaced scores to compare:
+
+#### The District Summary:
+
+![district_summary_pre](https://user-images.githubusercontent.com/36451701/130697817-0a7f3279-3663-4a09-9668-c80d71d49000.png)
+
+
+![district_summary_post](https://user-images.githubusercontent.com/36451701/130697826-86568b99-5cac-4e84-88bb-c2b97076d440.png)
+
+
+
+#### The School Summary:
+
+
+#### Top 5 and Bottom 5 Summary:
+
+
+#### Math and Reading Scores by Grade:
+
+
+#### Scores by Schools Spending per Student
+
+
+#### Scores by Schools Spending per School Size:
+
+
+#### Scores by Schools Spending per School Type
 
 
 
