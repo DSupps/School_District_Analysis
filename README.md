@@ -75,26 +75,30 @@ The purpose of the analysis was to show the school board what the effect of remo
 -
 -
 
-
-
 #### Math and Reading Scores by Grade:
-##### Math Scores
+##### Math Scores - Thomas High School 9th grade removed
 
 ![math_scores](https://user-images.githubusercontent.com/36451701/130700563-a9dc2a9a-923a-49e4-b4af-b5d94397021b.png)
 
 
-##### Reading Scores
+##### Reading Scores - Thomas High School 9th grade removed
 
 ![reading_scores](https://user-images.githubusercontent.com/36451701/130700573-f5a2c54f-111d-4cad-8403-6768cd9db98e.png)
 
 
-#### Math and Reading Scores by Grade Highlights:
-
 
 #### Scores by Schools Spending per Student:
+##### Before changes
+![spending_pre](https://user-images.githubusercontent.com/36451701/130701319-04dad235-20ee-4ecb-965a-1b8acf532394.png)
 
 
-#### cores by Schools Spending per Student Highlights:
+##### After changes
+![spending_post](https://user-images.githubusercontent.com/36451701/130701331-444354d1-2a41-4dc4-9f37-2c369b9475d3.png)
+
+
+
+
+#### Scores by Schools Spending per Student Highlights:
 
 
 #### Scores by Schools Spending per School Size:
