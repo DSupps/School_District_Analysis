@@ -33,10 +33,11 @@ The purpose of the analysis was to show the school board what the effect of remo
 ### Repeat the School District Analysis with replaced scores to compare:
 
 #### The District Summary:
+##### Before changes
 
 ![district_summary_pre](https://user-images.githubusercontent.com/36451701/130697817-0a7f3279-3663-4a09-9668-c80d71d49000.png)
 
-
+##### After changes
 ![district_summary_post](https://user-images.githubusercontent.com/36451701/130697826-86568b99-5cac-4e84-88bb-c2b97076d440.png)
 
 
