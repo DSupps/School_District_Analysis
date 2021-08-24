@@ -95,10 +95,10 @@ The purpose of the analysis was to show the school board what the effect of remo
 ##### After changes
 ![spending_post](https://user-images.githubusercontent.com/36451701/130701331-444354d1-2a41-4dc4-9f37-2c369b9475d3.png)
 
-
-
-
 #### Scores by Schools Spending per Student Highlights:
+- $585-629 category Avg Reading Scores went up .1%, % passing math went down .1% AND % overall passing went down .35%
+- $630-644 category % passing math went up .25%, % passing reading went up .05% and overall passsing % went up .05%
+- $645-678 category % passing math decresed .13%, % passing reading went up .1% and overall passing % went down .04%
 
 
 #### Scores by Schools Spending per School Size:
