@@ -108,13 +108,17 @@ The purpose of the analysis was to show the school board what the effect of remo
 #### After changes
 ![size_after](https://user-images.githubusercontent.com/36451701/130703121-a114dabe-c911-4f87-b567-ae16a803891d.png)
 
-
-
-
 #### Scores by Schools Spending per School Size Highlights :
 
 
 #### Scores by Schools Spending per School Type:
+##### Before changes
+![type_before](https://user-images.githubusercontent.com/36451701/130703573-fdf23bda-79fc-45d3-8538-e4f55be0fcf1.png)
+
+
+##### After changes
+![type_after](https://user-images.githubusercontent.com/36451701/130703593-3f12c37d-b426-4be3-a2c5-b8b97a2ba6b4.png)
+
 
 
 #### Scores by Schools Spending per School Type Highlights:
