@@ -51,12 +51,11 @@ The purpose of the analysis was to show the school board what the effect of remo
 ### The School Summary:
 ##### Before changes
 
-
+![school_summary_pre](https://user-images.githubusercontent.com/36451701/130872239-5b4c48a5-932e-45e0-b486-41b345386f28.png)
 
 ##### After changes
 
-
-
+![school_summary_post](https://user-images.githubusercontent.com/36451701/130872253-2107c890-10eb-42c3-9355-c8d370885110.png)
 
 #### School Summary Highlights:
 -
