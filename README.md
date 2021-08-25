@@ -58,9 +58,8 @@ The purpose of the analysis was to show the school board what the effect of remo
 ![school_summary_post](https://user-images.githubusercontent.com/36451701/130872253-2107c890-10eb-42c3-9355-c8d370885110.png)
 
 #### School Summary Highlights:
--
--
--
+- There are minimal changes the averages scores for math and reading
+- There are significant changes to the % passing math and % passing reading
 
 ### Top 5 and Bottom 5 Summary:
 ##### Top Performing Schools"
@@ -70,9 +69,7 @@ The purpose of the analysis was to show the school board what the effect of remo
 ![overall_low](https://user-images.githubusercontent.com/36451701/130700075-c4211459-110a-4e70-ad4a-8d27c19e8a5e.png)
 
 #### Top 5 and Bottom 5 Highlights:
--
--
--
+- The highest and lowing performing schools were not affected by these adjustements
 
 ### Math and Reading Scores by Grade:
 ##### Math Scores - Thomas High School 9th grade removed
