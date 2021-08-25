@@ -117,7 +117,7 @@ The purpose of the analysis was to show the school board what the effect of remo
 #### Scores by Schools Type Highlights:
 - Changes the the scores by school type were minimal
 
-
+#
 
 
 
