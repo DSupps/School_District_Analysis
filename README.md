@@ -115,7 +115,9 @@ The purpose of the analysis was to show the school board what the effect of remo
 ![type_after](https://user-images.githubusercontent.com/36451701/130703593-3f12c37d-b426-4be3-a2c5-b8b97a2ba6b4.png)
 
 #### Scores by Schools Type Highlights:
--
+- Changes the the scores by school type were minimal
+
+
 
 
 
