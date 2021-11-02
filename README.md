@@ -1,5 +1,7 @@
 # School_District_Analysis
 
+![school_bus](https://user-images.githubusercontent.com/36451701/139773912-b10d0aa2-580e-42e4-bf2b-751751c8fe39.png)
+
 ## Project Overview - Overview of the School District Audit
 *The school board believes that there is evidence of academic dishonesty withing their local school district. They believe that some of the test scores have been altered. The school board wants to uphold state-testing standards and have asked for help. Maria has asked me for help and given me the following tasks.
 
