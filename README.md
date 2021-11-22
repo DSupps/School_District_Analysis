@@ -23,7 +23,7 @@ Software:
 - Python 3.8.5
 - Jupyter Notebook 6.1.4
 
-## Summary: School District Analysis Summary:
+## School District Analysis Project Summary:
 
 Overview of the school district analysis: Explain the purpose of this analysis.
 The purpose of the analysis was to show the school board what the effect of removing Thomas High School's ninth grade math and reading scores would have overall. 
